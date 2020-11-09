@@ -6,7 +6,7 @@ spring:
     name: cloud-config-center
   cloud:
     config:
-      info:master
+      info: master
       server:
         git:
           #uri: git@github.com:EiletXie/config-repo.git #Github上的git仓库名字
